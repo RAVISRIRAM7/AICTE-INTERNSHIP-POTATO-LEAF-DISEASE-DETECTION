@@ -25,7 +25,8 @@ The dataset is structured into three folders:
     /Valid  # Validation images
     /Test   # Test images
 ```
-Each folder contains subdirectories for different disease classes.
+Each folder contains subdirectories for different disease classes.<br>
+<a href="https://github.com/JayRathod341997/AICTE-Internship-files">Dataset Link</a>
 
 ## Model Architecture
 The CNN model consists of:
